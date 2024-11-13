@@ -1,0 +1,10 @@
+#git commands
+
+git init
+git remote add origin https://github.com/amanrathore0000/mca00.git
+git config --global user.name "user"
+git config --global user.email "email"
+
+git add .
+git commit -m "first commit"
+git branch -M main
