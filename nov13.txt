@@ -1,3 +1,4 @@
+
 #git commands
 
 git init
@@ -8,3 +9,6 @@ git config --global user.email "email"
 git add .
 git commit -m "first commit"
 git branch -M main
+
+git remote
+
